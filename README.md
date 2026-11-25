@@ -1,5 +1,11 @@
 # Network-Emulation-SDK PHP SDK
 
+<!-- simple-start:start -->
+Use Network-Emulation-SDK from a PHP app.
+
+**Start here.** Run `composer require titancsa/network-emulation-sdk`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
